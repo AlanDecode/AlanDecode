@@ -11,5 +11,3 @@ Feel free to contact me via <a href="mailto:hi@imalan.cn">Email</a> or [Telegram
 ## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AlanDecode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDecode&layout=compact&theme=tokyonight)
